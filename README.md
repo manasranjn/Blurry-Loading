@@ -1,0 +1,2 @@
+# Blurry-Loading Page
+This is a visually engaging project that creates a dynamic loading experience for users. As the page loads, the background transitions from a blurred state to full clarity. The opacity of the background gradually increases from 0 to 1, aligning with the progress of the loading bar, which moves from 0% to 100%. This simple yet effective effect enhances the visual appeal of the loading process and provides a smooth, polished user experience.
